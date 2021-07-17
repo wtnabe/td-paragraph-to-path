@@ -2,10 +2,10 @@
   "engines": {
     "node": ">= 12"
   },
-  "name": "td-paragrah-to-path",
-  "version": "0.1.0",
+  "name": "td-paragraph-to-path",
+  "version": "0.1.1",
   "description": "convert tDiary's paragraph Fragment ID to URI path",
-  "main": "index.js",
+  "main": "src/index.mjs",
   "exports": {
     ".": {
       "import": "./dist/index.esm.min.mjs",
